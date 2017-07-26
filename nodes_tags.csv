@@ -1,0 +1,203 @@
+id,key,value,type
+245711024,source,AND,regular
+322702410,power,tower,regular
+322703048,power,tower,regular
+322705235,power,tower,regular
+322706365,power,tower,regular
+322706964,power,tower,regular
+322710975,power,tower,regular
+322717001,power,tower,regular
+322718296,power,tower,regular
+322719390,power,tower,regular
+322720585,power,tower,regular
+322721067,power,tower,regular
+322722253,power,tower,regular
+322879693,power,tower,regular
+322883097,power,tower,regular
+322885846,power,tower,regular
+322891564,power,tower,regular
+322896300,power,tower,regular
+322902915,power,tower,regular
+323189766,name,Sabarmati Junction,regular
+323189766,railway,station,regular
+323189766,wikidata,Q7395913,regular
+323189766,wikipedia,en:Sabarmati Junction railway station,regular
+323200330,power,tower,regular
+323204386,power,tower,regular
+323215721,power,tower,regular
+323218570,power,tower,regular
+323221413,power,tower,regular
+323226386,power,tower,regular
+323230082,power,tower,regular
+324997024,power,tower,regular
+325001339,power,tower,regular
+325034066,power,tower,regular
+325040459,power,tower,regular
+325047659,power,tower,regular
+325064478,power,tower,regular
+325073930,power,tower,regular
+325082226,power,tower,regular
+325086880,power,tower,regular
+325089994,power,tower,regular
+325093958,power,tower,regular
+429790300,name,Gayatri Mandir,regular
+429790300,amenity,place_of_worship,regular
+429790300,religion,hindu,regular
+611572690,amenity,cinema,regular
+625175622,fee,no,regular
+625175622,name,Staff Parking,regular
+625175622,amenity,parking,regular
+695666628,name,Hotel Alkan,regular
+695666628,tourism,hotel,regular
+1512990086,power,tower,regular
+1512990126,power,tower,regular
+1512990198,power,tower,regular
+1517908754,power,tower,regular
+1517908850,power,tower,regular
+1517908985,power,tower,regular
+1517909040,power,tower,regular
+1517909340,power,tower,regular
+1517909631,power,tower,regular
+1517909732,power,tower,regular
+1782729611,bus,yes,regular
+1782729611,public_transport,stop_position,regular
+1794443110,name,Niranaynagar garnala,regular
+1875843817,power,tower,regular
+1891785800,railway,level_crossing,regular
+1993259041,name,Arasuri Society,regular
+1993259041,building,residential,regular
+1993259041,street,Ring Road,addr
+1993259041,postcode,380013,addr
+1993259041,housename,Arasuri Society,addr
+2265953651,name,Dharnidhar,regular
+2265953651,highway,bus_stop,regular
+2356244426,power,tower,regular
+2356244630,power,tower,regular
+2356244867,power,tower,regular
+2377178386,name,Mosque,regular
+2377178386,amenity,place_of_worship,regular
+2377178386,religion,muslim,regular
+2531101257,name,Guru Mandir,regular
+2531101257,amenity,place_of_worship,regular
+2531101257,religion,jain,regular
+2599227752,name,Maneklal Jethalal Public Library,regular
+2599227752,amenity,library,regular
+2599227752,city,Ahmedabad,addr
+2599227752,postcode,380008,addr
+2991475423,power,tower,regular
+2991475456,power,tower,regular
+2991475486,power,tower,regular
+3227458797,barrier,toll_booth,regular
+3285737426,power,tower,regular
+3285737577,power,tower,regular
+3285737608,power,tower,regular
+3285745382,power,tower,regular
+3293806661,name,towels,regular
+3293806661,shop,clothes,regular
+3298295246,name,Manek Baug Water Tower,regular
+3298295246,man_made,water_tower,regular
+3306683249,atm,yes,regular
+3306683249,name,HDFC Bank Relief Road Branch,regular
+3306683249,amenity,bank,regular
+3306683481,bus,yes,regular
+3306683481,operator,BRTS,regular
+3306683481,public_transport,stop_position,regular
+3306683575,foot,yes,regular
+3306683575,barrier,gate,regular
+3306683575,bicycle,no,regular
+3415661205,name,Memnagar,regular
+3415661205,place,suburb,regular
+3415668798,name,Gurukul,regular
+3415668798,place,neighbourhood,regular
+3415672552,name,GMDC,regular
+3415672552,highway,bus_stop,regular
+3500459652,name,Pukhraj Hospital,regular
+3500459652,amenity,hospital,regular
+3500459652,city,Ahmedabad,addr
+3500459652,emergency,yes,regular
+3500459652,postcode,380005,addr
+3596782612,power,tower,regular
+3596782643,power,tower,regular
+3656678446,power,tower,regular
+3706061816,natural,grassland,regular
+3711405941,water,pond,regular
+3727529859,name,shalimar complex,regular
+3774861434,name,panddi restarunt,regular
+3775157500,name,tree,regular
+3775157500,natural,tree,regular
+3775296137,shop,greengrocer,regular
+3776081345,natural,tree,regular
+3776335743,name,tree,regular
+3776335743,natural,tree,regular
+3779275202,natural,tree,regular
+3783072126,natural,tree,regular
+3949903893,power,tower,regular
+4295954134,power,tower,regular
+4296260707,power,tower,regular
+4296260737,power,tower,regular
+4296260767,power,tower,regular
+4296260997,power,tower,regular
+4358516992,name,Maruti plaza,regular
+4358516992,building,yes,regular
+4358516992,city,AHMEDABAD,addr
+4358516992,street,NH8,addr
+4398393689,city,Nr.Vatva GIDC,addr
+4398393689,housenumber,560,addr
+4398393689,postcode,382445,addr
+4398393689,street,Vatva railway station road,addr
+4398393689,man_made,works,regular
+4398393689,name,intec frp II unit,regular
+4398393689,phone,+91 79 2589 4542 / +91 9429207992,regular
+4443242989,name,Auto world Circle,regular
+4443242989,en,Auto world Circle,name
+4478346291,name,D Mart,regular
+4478346291,shop,department_store,regular
+4478346291,en,D Mart,name
+4478346291,street,Sardar Patel Ring Road,addr
+4485408891,amenity,bank,regular
+4485408891,wikidata,Q2003797,brand
+4485408891,name,Bank of Baroda,regular
+4485408891,en,Bank of Baroda,name
+4485408891,short_name,BoB,regular
+4485408891,website,http://www.bankofbaroda.com,regular
+4485408891,wikipedia,en:Bank of Baroda,regular
+4487915091,name,Piplaj industrial Area,regular
+4487915091,en,Piplaj industrial Area,name
+4487915091,man_made,works,regular
+4514531993,name,Kanij Railway Station,regular
+4514531993,en,Kanij Railway Station,name
+4514531993,tourism,information,regular
+4572530829,natural,tree,regular
+4572530859,natural,tree,regular
+4671537490,street,FACTORY Road no.14,addr
+4671537490,name,Shree hari fiber product p ltd,regular
+4671537490,en,Shree hari fiber product p ltd,name
+4671537490,tourism,attraction,regular
+4709907894,amenity,place_of_worship,regular
+4709907894,name,Shree Swaminarayan Vishranti Bhuvan (Under Bhuj),regular
+4709907894,en,Shree Swaminarayan Vishranti Bhuvan (Under Bhuj),name
+4717075101,natural,tree,regular
+4717075131,natural,tree,regular
+4717075161,natural,tree,regular
+4717075191,natural,tree,regular
+4717075221,natural,tree,regular
+4717075585,natural,tree,regular
+4762313978,street,Ramdevnagar road,addr
+4762313978,name,Mahasagar travels ltd,regular
+4762313978,en,Mahasagar travels ltd,name
+4762313978,hi,महासागर ट्रेवल्स ली.,name
+4762313978,phone,079 26920057,regular
+4762313978,shop,travel_agency,regular
+4770856499,natural,tree,regular
+4770857078,natural,tree,regular
+4770857108,natural,tree,regular
+4770857138,natural,tree,regular
+4770857168,natural,tree,regular
+4770857198,natural,tree,regular
+4794252828,amenity,atm,regular
+4794252828,opening_hours,24/7,regular
+4794252828,operator,Bank of Baroda,regular
+4863096613,aeroway,gate,regular
+4863096613,ref,Bay 7,regular
+4863107713,aeroway,gate,regular
+4863107713,ref,Bay 13 R,regular
